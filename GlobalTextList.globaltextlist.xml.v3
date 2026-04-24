@@ -1,0 +1,179 @@
+__V3_META__
+{
+  "objectGuid": "b5430773-3042-47d6-a6d3-28650a6ce532",
+  "objectTypeGuid": "63784cbb-9ba0-45e6-9d69-babf3f040511",
+  "embeddedObjectTypeGuids": [],
+  "properties": {},
+  "subObjects": {}
+}
+__V3_CONTENT__
+<?xml version="1.0" encoding="utf-8"?>
+<Single xml:space="preserve" Type="{63784cbb-9ba0-45e6-9d69-babf3f040511}" Method="IArchivable">
+  <List Name="TextList" Type="System.Collections.ArrayList">
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">205</Single>
+      <Single Name="TextDefault" Type="string"> Set RTC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">197</Single>
+      <Single Name="TextDefault" Type="string">%d s   </Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">234</Single>
+      <Single Name="TextDefault" Type="string">%s</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">509</Single>
+      <Single Name="TextDefault" Type="string">%t[dd.MM.yyyy HH:mm:ss]</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">717</Single>
+      <Single Name="TextDefault" Type="string">%t[dddd dd.MM.yyyy HH:mm:ss:ms]</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">107</Single>
+      <Single Name="TextDefault" Type="string">(%s)</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">181</Single>
+      <Single Name="TextDefault" Type="string">Current local timezone</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">664</Single>
+      <Single Name="TextDefault" Type="string">Cyclic Get</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">392</Single>
+      <Single Name="TextDefault" Type="string">Daylight saving time is active</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">746</Single>
+      <Single Name="TextDefault" Type="string">DST</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">131</Single>
+      <Single Name="TextDefault" Type="string">Get</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">471</Single>
+      <Single Name="TextDefault" Type="string">Get cyclically RTC and timezone information from PLC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">584</Single>
+      <Single Name="TextDefault" Type="string">Get RTC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">469</Single>
+      <Single Name="TextDefault" Type="string">Get RTC and timezone information from PLC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">264</Single>
+      <Single Name="TextDefault" Type="string">If activated the timestamp is converted to UTC before writing,
+else it is written as it is to the RTC.</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">580</Single>
+      <Single Name="TextDefault" Type="string">Local time according to timezone and adjustment for daylight saving</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">581</Single>
+      <Single Name="TextDefault" Type="string">Local time is not supported</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">268</Single>
+      <Single Name="TextDefault" Type="string">Local time:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">914</Single>
+      <Single Name="TextDefault" Type="string">Not supported</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">766</Single>
+      <Single Name="TextDefault" Type="string">Offset of current local time zone including adjustment for daylight saving</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">990</Single>
+      <Single Name="TextDefault" Type="string">Offset to RTC/UTC:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">639</Single>
+      <Single Name="TextDefault" Type="string">RealTimeClock Control</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">37</Single>
+      <Single Name="TextDefault" Type="string">RTC on the PLC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">472</Single>
+      <Single Name="TextDefault" Type="string">RTC value:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">861</Single>
+      <Single Name="TextDefault" Type="string">Set</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">640</Single>
+      <Single Name="TextDefault" Type="string">Set RTC to PLC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">753</Single>
+      <Single Name="TextDefault" Type="string">Standard</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">336</Single>
+      <Single Name="TextDefault" Type="string">Standard time is active</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">767</Single>
+      <Single Name="TextDefault" Type="string">Time to set:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">193</Single>
+      <Single Name="TextDefault" Type="string">Timestamp to set to PLC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">402</Single>
+      <Single Name="TextDefault" Type="string">Timezone name:</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+    <Single Type="{53da1be7-ad25-47c3-b0e8-e26286dad2e0}" Method="IArchivable">
+      <Single Name="TextID" Type="string">555</Single>
+      <Single Name="TextDefault" Type="string">Write as UTC</Single>
+      <List Name="LanguageTexts" Type="System.Collections.ArrayList" />
+    </Single>
+  </List>
+  <List Name="Languages" Type="System.Collections.ArrayList" />
+  <Single Name="GuidInit" Type="System.Guid">25674c78-f456-4f9a-8b99-33b3a41b39cd</Single>
+  <Single Name="GuidReInit" Type="System.Guid">34352412-088c-41f9-802d-8a94759a1b8d</Single>
+  <Single Name="GuidExitX" Type="System.Guid">9aab13d0-be66-4481-8787-0dfa0e4eca84</Single>
+</Single>

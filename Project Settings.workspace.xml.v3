@@ -1,0 +1,13 @@
+__V3_META__
+{
+  "objectGuid": "6470a90f-b7cb-43ac-9ae5-94b2338b4573",
+  "objectTypeGuid": "8753fe6f-4a22-4320-8103-e553c4fc8e04",
+  "embeddedObjectTypeGuids": [],
+  "properties": {},
+  "subObjects": {}
+}
+__V3_CONTENT__
+<?xml version="1.0" encoding="utf-8"?>
+<Single xml:space="preserve" Type="{8753fe6f-4a22-4320-8103-e553c4fc8e04}" Method="IArchivable">
+  <Null Name="OptionData" />
+</Single>
